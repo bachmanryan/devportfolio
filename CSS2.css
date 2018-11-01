@@ -1,0 +1,28 @@
+body {
+    padding-top: 50px;
+}
+h1{
+    text-align: center;
+}
+.jumbotron {
+    color: black;
+    background: white;
+    text-align: center;
+    background: url(http://demographicwinter.org/wp-content/uploads/2018/03/this-light-blue-lines-slide-design-can-be-suitable-for-with-blue-professional-presentation-backgrounds.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.navbar-inverse {
+    background: black;
+    color: white;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse a {
+    color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
